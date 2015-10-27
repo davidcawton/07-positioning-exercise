@@ -1,0 +1,19 @@
+{
+  "name": "07-positioning-exercise",
+  "homepage": "https://github.com/davidcawton/07-positioning-exercise",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
